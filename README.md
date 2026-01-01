@@ -41,13 +41,23 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## ` Fork this repo`
 <p align="centre">
-<a href="https://github.com/Ignatiusperez/Perez/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK NEXUS-BOT" width="160"></a>
+<a href="https://github.com/ARYAN-BOT/ARYAN![FB_IMG_17669295305689841](https://github.com/user-attachments/assets/eddd596b-c5af-40fa-bcf6-f7055707731a)
+![Screenshot_2026-01-01-05-59-38-76](https://github.com/user-attachments/assets/69dce401-f357-4c78-ba68-1d4432bc2858)
+
+
+https://github.com/user-attachments/assets/95f5cce0-74f7-41b8-a1bb-595cb68c5bc9
+
+
+
+https://github.com/user-attachments/assets/8d566f8f-bc77-4204-94ea-8477e61d11b0
+
+/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK ARYAN-BOT" width="160"></a>
 <p/>
 
   
 ## ` Pair onrender`
 <p align="centre">
-<a href="https://perez-md-pairing.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
+<a href="https://aryan-md-pairing.onrender.com"><img height= "37" title="Author" src="https://img.shields.io/badge/Session-green?style=for-the-badge&logo=render"></a>
 <p/>
             
 
@@ -81,5 +91,5 @@ Our AI features use random APIs to run, so sometimes they may be down.
 [MIT License](https://github.com/HunterNick2/RAVEN-BOT/blob/main/LICENSE)
 
 Copyright (c) 2025 ARYAN![Screenshot_2026-01-01-05-59-38-76](https://github.com/user-attachments/assets/f2b5b5fc-48a2-4e0e-a070-f8c1681b3ebb)
--MD 
+ARYAN-MD
 
