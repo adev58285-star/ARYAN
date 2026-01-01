@@ -70,13 +70,13 @@ https://github.com/user-attachments/assets/8d566f8f-bc77-4204-94ea-8477e61d11b0
        <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/>
      </a>
  </p>
-
+##heroku
  
 
     
 
 - Fill in the required variables into your hosting site for bot to work.
- </h2>
+ </h2>WWW.ARYAN.COM
      
 
     
@@ -88,7 +88,7 @@ https://github.com/user-attachments/assets/8d566f8f-bc77-4204-94ea-8477e61d11b0
 
 ## License
 
-[MIT License](https://github.com/HunterNick2/RAVEN-BOT/blob/main/LICENSE)
+[MIT License](https://github.com/HunterNick2ARYAN-BOT/blob/main/LICENSE)
 
 Copyright (c) 2025 ARYAN![Screenshot_2026-01-01-05-59-38-76](https://github.com/user-attachments/assets/f2b5b5fc-48a2-4e0e-a070-f8c1681b3ebb)
 ARYAN-MD
